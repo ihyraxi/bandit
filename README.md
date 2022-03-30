@@ -3,4 +3,4 @@ OverTheWire이라는 워게임 사이트에 있는 다양한 문제중에 리눅
 접속 방식은 SSH이고 주소는 bandit.labs.overthewire.org이고 포트번호는 2220번입니다.
 
 https://overthewire.org/wargames/bandit/
-⬆️OverTheWire bandit 사이트 주소
+⬅️OverTheWire bandit 사이트 주소
